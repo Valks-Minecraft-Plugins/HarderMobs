@@ -17,7 +17,7 @@ monsters:
 ```
 If you don't want a monster to have a item instead of putting for example GOLDEN_BOOTS, put ''
 
-<details><summary>Config Preview</summary>
+<details><summary>Config Preview (Click to Expand)</summary>
 <p>
 
 #### monsters.yml
