@@ -2,6 +2,21 @@
 
 Drowned, Husk, Pig Zombie, Skeleton Stray, Wither Skeleton, Zombie, Zombie Villager have a configurable chance to spawn with configurable equipment / speed.
 
+### Configuration Tutorial
+
+```yml
+monsters:
+  <type>
+    chance: 0.1 # The chance that the monster can spawn. Values range from 0.0 - 1.0 (0% - 100%)
+    helmet: BLACK_WOOL # The helmet itemstack.
+    chestplate: CHAINMAIL_CHESTPLATE # The chestplate itemstack.
+    leggings: IRON_LEGGINGS # The leggings itemstack.
+    boots: GOLDEN_BOOTS # The boots itemstack.
+    mainweapon: APPLE # The main weapon itemstack. (It does not have to be a weapon.)
+    offweapon: IRON_AXE # The off weapon itemstack. (It does not have to be a weapon.)
+```
+If you don't want a monster to have a item instead of putting for example GOLDEN_BOOTS, put ''
+
 <details><summary>Config Preview</summary>
 <p>
 
