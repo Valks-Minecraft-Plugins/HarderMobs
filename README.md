@@ -16,6 +16,7 @@ monsters:
     boots: GOLDEN_BOOTS # The boots itemstack.
     mainweapon: APPLE # The main weapon itemstack. (It does not have to be a weapon.)
     offweapon: IRON_AXE # The off weapon itemstack. (It does not have to be a weapon.)
+    speed: 1 # The speed of the mob, if you don't want any extra speed than put 0. (All values are greater than zero.)
 ```
 If you don't want a monster to have a item instead of putting for example GOLDEN_BOOTS, put ''
 
