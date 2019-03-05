@@ -1,5 +1,7 @@
 # HarderMobs
 
+Download latest release for 1.13.2 [here](https://github.com/valkyrienyanko/HarderMobs/releases).
+
 Drowned, Husk, Pig Zombie, Skeleton Stray, Wither Skeleton, Zombie, Zombie Villager have a configurable chance to spawn with configurable equipment / speed.
 
 ### Configuration Tutorial
