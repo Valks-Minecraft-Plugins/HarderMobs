@@ -1,5 +1,6 @@
 # HarderMobs
 
+## About
 Download latest release for 1.13.2 [here](https://github.com/valkyrienyanko/HarderMobs/releases).
 
 Drowned, Husk, Pig Zombie, Skeleton Stray, Wither Skeleton, Zombie, Zombie Villager have a configurable chance to spawn with configurable equipment / speed.
@@ -101,3 +102,9 @@ monsters:
 ```
 </p>
 </details>
+
+## Compiling
+1. Clone the repository directly into your IDE.
+2. Build Spigot with [Spigot's Build Tools](https://www.spigotmc.org/wiki/buildtools/) then add the JAR to the projects build path.
+3. Fix any outdated code in the project depending on what version of Spigot you installed.
+4. Compile the plugin by exporting it to a JAR file.
